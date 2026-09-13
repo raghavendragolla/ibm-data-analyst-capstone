@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Database](https://img.shields.io/badge/Database-SQLite%20%7C%20ANSI--SQL-lightgrey.svg)](https://www.sqlite.org/)
-[![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red.svg)](https://streamlit.io/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ibm-capstone.streamlit.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![IBM Capstone](https://img.shields.io/badge/Certification-IBM%20Data%20Analyst%20Professional-blueviolet.svg)](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 [![CI](https://github.com/raghavendragolla/ibm-data-analyst-capstone/actions/workflows/ci.yml/badge.svg)](https://github.com/raghavendragolla/ibm-data-analyst-capstone/actions/workflows/ci.yml)
