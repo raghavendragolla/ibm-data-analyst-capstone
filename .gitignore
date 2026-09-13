@@ -64,3 +64,6 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+# Whitelist processed database for Streamlit Community Cloud deployment
+!data/processed/capstone.db
