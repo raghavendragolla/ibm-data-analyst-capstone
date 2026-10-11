@@ -16,7 +16,7 @@ This guide prepares you to discuss this project confidently and authoritatively 
 > 
 > *I ingested and cryptographically verified three public datasets: an 11,500-record Stack Overflow developer survey, a 27,000-listing tech job postings dataset, and an industry salary benchmark table. After cleaning 154 duplicate respondents and normalizing diverse pay cycles into annual compensation, I decomposed delimited text into first-normal-form relational tables.*
 > 
-> *Using SQL window functions and CTEs, I discovered that while JavaScript and MySQL lead legacy production, Python (+46%) and PostgreSQL (+38%) dominate future demand. Using inferential statistics, I ran a Mann-Whitney U test demonstrating that Master's degrees do not yield significantly higher compensation than Bachelor's degrees ($p = 0.068$), and a Welch's t-test showing remote developers log identical hours to in-office staff. Finally, I synthesized these findings into an interactive Streamlit dashboard and an executive strategy report."*
+> *Using SQL window functions and CTEs, I discovered that while JavaScript and MySQL lead legacy production, Python is the only top-five language with rising interest (+15.3%) and PostgreSQL is the most-desired database (38.0% of respondents). Using inferential statistics, I ran a Mann-Whitney U test demonstrating that Master's degrees do not yield significantly higher compensation than Bachelor's degrees ($p = 0.068$), and a Welch's t-test showing remote developers log identical hours to in-office staff. Finally, I synthesized these findings into an interactive Streamlit dashboard and an executive strategy report."*
 
 ---
 

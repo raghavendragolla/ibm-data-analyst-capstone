@@ -13,7 +13,7 @@
 To maintain enterprise competitiveness, global IT consultancies must align workforce capabilities with shifting technological paradigms. This comprehensive analysis evaluates **11,398 unique developer survey responses**, **27,005 real-world tech job postings**, and external salary benchmarks to provide evidence-based guidance for executive leadership (CTO, Talent Acquisition, and Learning & Development).
 
 ### Key Strategic Findings:
-1. **The Modern Polyglot Standard**: JavaScript (76.2% adoption) and SQL (62.3%) dominate production enterprise development. However, **Python** represents the premier growth engine, displaying a **+46.0% net interest expansion** (growing from 4,542 active users to 6,630 desired users).
+1. **The Modern Polyglot Standard**: JavaScript (76.2% adoption) and SQL (62.3%) dominate production enterprise development. However, **Python** is the only one of the five most-used languages with rising interest, growing from 4,542 current users to 5,239 desired users (**+15.3%**).
 2. **The Database Migration Pivot**: While MySQL leads legacy production deployments (48.0%), developer future demand is overwhelmingly captured by **PostgreSQL (38.0%)**, **MongoDB (32.0%)**, and **Redis (29.2%)**.
 3. **IDE Standardization**: **Visual Studio Code** has achieved definitive industry dominance with **58.3%** developer adoption—nearly double its nearest competitor (Visual Studio at 35.3%).
 4. **Compensation Reality vs. Skew**: Developer compensation is heavily right-skewed (mean $131,334 vs. median $57,744) due to 879 extreme salary outliers up to $2,000,000. Trimming outliers normalizes the mean to $59,883. Furthermore, correlation analysis demonstrates that working overtime hours has virtually zero correlation with market pay ($r = 0.05$).
@@ -124,7 +124,7 @@ We provisioned a local SQLite relational database (`data/processed/capstone.db`)
 
 ## 12. Production Visualizations
 Eight publication-grade figures were generated in `visualizations/`:
-1. `01_top_languages_current_vs_desired.png`: Multi-series bar chart highlighting Python's growth momentum.
+1. `01_top_languages_current_vs_desired.png`: Multi-series bar chart comparing current and desired users for the top 10 languages.
 2. `02_top_databases_migration_shift.png`: Grouped bar chart illustrating the PostgreSQL surge.
 3. `03_ide_popularity_ranking.png`: Bar chart displaying Visual Studio Code's 58.3% dominance.
 4. `04_compensation_distribution_and_outliers.png`: Dual-panel histogram and outlier boxplot.
@@ -148,7 +148,7 @@ We engineered a multi-tab executive BI dashboard (`dashboard/app.py`) in Streaml
 
 | Area | Quantitative Evidence | Strategic Insight |
 | :--- | :--- | :--- |
-| **Languages** | JavaScript: 76.2% current; Python: +46.0% desired growth. | Full-stack JavaScript/TypeScript + Python data engineering forms the ideal tech stack. |
+| **Languages** | JavaScript: 76.2% current; Python: +15.3% growth in desired users (39.8% → 46.0% share). | Full-stack JavaScript/TypeScript + Python data engineering forms the ideal tech stack. |
 | **Databases** | PostgreSQL: #1 desired (38.0%); Redis: #3 desired (29.2%). | Client architectures are moving toward open-source relational cores with caching layers. |
 | **Tooling** | VS Code: 58.3% adoption; IntelliJ: 27.2%. | Standardizing on VS Code tooling reduces licensing costs and onboarding friction. |
 | **Labor Demand** | SQL appears in 8.2% and JS in 8.3% of 27k job postings. | Core relational query skills remain mandatory across virtually all tech hiring. |
