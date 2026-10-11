@@ -9,7 +9,7 @@ This directory contains the interactive dashboard implementation and architectur
 A modern, production-grade business intelligence dashboard connected directly to the normalized relational database (`data/processed/capstone.db`).
 
 ### Key Features:
-- **Executive KPI Cards**: Real-time indicators for Total Headcount (11,398), Median Annual Salary ($57,744), Top Language (JavaScript), Leading Future Growth Language (Python), and Preferred Future Database (PostgreSQL).
+- **Executive KPI Cards**: Real-time indicators for Total Headcount (11,398), Median Annual Salary ($57,744), Top Current Language (JavaScript), Top Desired Database (PostgreSQL), and Top Development Tool.
 - **Interactive Multi-Level Filtering**: Dynamically segment analysis across **135 Countries** and **3 Work Locations** (Office, Home, Coworking/Other).
 - **5 Thematic Tabs**:
   1. `Programming Languages`: Interactive horizontal bar charts comparing current production usage against future developer desire.

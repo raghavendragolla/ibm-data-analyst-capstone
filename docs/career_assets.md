@@ -7,7 +7,7 @@ This document provides tailored resume bullets, a LinkedIn project launch post, 
 ## 1. Resume Bullet Points
 
 ### Bullet Option 1 (Full Analytics Lifecycle Focus):
-- **Engineered an end-to-end analytics pipeline** analyzing 11,398 developer survey records and 27,005 job postings using Python (Pandas, SciPy) and SQLite, identifying a +46% growth momentum in Python adoption and a 38% architectural migration shift toward PostgreSQL.
+- **Engineered an end-to-end analytics pipeline** analyzing 11,398 developer survey records and 27,005 job postings using Python (Pandas, SciPy) and SQLite, finding that Python is the only top-five language with rising developer interest (+15.3%) and that PostgreSQL is the most-desired database (38.0% of respondents).
 
 ### Bullet Option 2 (Statistical Rigor & Data Engineering Focus):
 - **Architected a 1NF normalized relational database** with SQL window functions and CTEs; performed inferential hypothesis testing (Mann-Whitney U, Welch's t-test, Chi-Square), validating that remote developers deliver equal work hours ($p = 0.272$) and disproving degree salary premiums ($p = 0.068$).
@@ -31,7 +31,7 @@ Key Highlights of the Project:
 🧪 Inferential Statistics: Conducted Mann-Whitney U, Welch's t-test, and Chi-Square tests—statistically proving that remote engineers work identical weekly hours to in-office staff (p = 0.272) and debunking the assumption that Master's degrees command an automatic pay premium in software roles (p = 0.068).
 📈 Interactive BI Dashboard: Developed a multi-tab Streamlit application with live geographic filters and executive KPI metrics.
 
-💡 Core Takeaway: Python (+46% net momentum) and PostgreSQL (38% desired share) represent the definitive future growth engines, while SQL and JavaScript remain the non-negotiable anchor skills demanded by employers.
+💡 Core Takeaway: Python (the only top-five language with rising interest, +15.3%) and PostgreSQL (the most-desired database, 38.0%) are key growth areas, while SQL and JavaScript remain the non-negotiable anchor skills demanded by employers.
 
 Check out the full open-source repository, code, and executive briefing on GitHub:
 👉 https://github.com/raghavendragolla/ibm-data-analyst-capstone
@@ -52,4 +52,4 @@ Check out the full open-source repository, code, and executive briefing on GitHu
 ### Project Overview Modal:
 - **Problem**: Global consulting firms face costly bench downtime and misaligned hiring budgets due to rapid shifts in technology ecosystems.
 - **Approach**: Built reproducible data collection scripts, cleaned data with IQR outlier detection, normalized delimited text into relational tables in SQLite, tested hypotheses with Mann-Whitney U and Chi-Square tests, and created an interactive Streamlit BI application.
-- **Result**: Proved that Master's degrees do not grant a significant salary premium ($p = 0.068$) and demonstrated that Python (+46%) and PostgreSQL (38%) lead future technical demand, providing C-suite stakeholders with clear roadmaps for hiring and reskilling.
+- **Result**: Proved that Master's degrees do not grant a significant salary premium ($p = 0.068$) and showed that Python's desired user count grows by 15.3% while PostgreSQL is the most-desired database (38.0%), providing C-suite stakeholders with clear roadmaps for hiring and reskilling.

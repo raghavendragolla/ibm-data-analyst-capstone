@@ -48,7 +48,7 @@
 
 ### Slide 6: Programming Languages: The Growth Engine
 * **Current Enterprise Leaders**: JavaScript (76.2%), HTML/CSS (68.7%), SQL (62.3%).
-* **The Premier Growth Engine**: **Python** (+46.0% net interest expansion, surging to 6,630 desired users).
+* **Rising Interest Among Mainstream Languages**: **Python** is the only one of the five most-used languages whose desired users exceed current users (4,542 → 5,239, +15.3%).
 * **Fading Momentum**: PHP (-50.0%), Java (-34.5%), and VBA (-76.3%) experience sharp decline in desire.
 * **Key Takeaway**: Enterprise engagements require dual-competency engineers: Web (JS/TS) + Data/Backend (Python).
 

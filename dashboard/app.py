@@ -257,7 +257,7 @@ with tab5:
     ### Key Strategic Pillars for Consulting Leadership:
     
     1. **Prioritize Full-Stack Polyglots (Python + JavaScript + SQL)**:
-       - **Evidence**: JavaScript and SQL dominate employer job requisitions (>8% of all tech job postings each), while Python commands the highest developer growth momentum (+46%).
+       - **Evidence**: JavaScript and SQL dominate employer job requisitions (>8% of all tech job postings each), while Python is the only one of the five most-used languages whose desired users exceed its current users (+15.3%).
        - **Action**: Align hiring rubrics to test relational SQL and Python scripting. Avoid niche language requirements unless project-specific.
     
     2. **Modernize Client Database Architecture (PostgreSQL & Redis)**:

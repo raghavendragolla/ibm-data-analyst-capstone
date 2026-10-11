@@ -34,8 +34,8 @@ Global IT and management consulting organizations face rapid shifts in technolog
 This project bridges the gap between **developer skill supply** and **real employer labor demand**, delivering data-driven recommendations for executive stakeholders (CTO, Talent Acquisition, and Learning & Development).
 
 ### Key Takeaways at a Glance:
-- **Language Momentum**: JavaScript (76.2%) and SQL (62.3%) anchor enterprise production, while **Python** represents the premier growth engine (+46.0% net desire expansion).
-- **The Database Shift**: While MySQL leads current deployments (48.0%), **PostgreSQL surges to #1** in future developer desire (38.0%), with Redis (29.2%) and MongoDB (32.0%) capturing caching and NoSQL demand.
+- **Language Momentum**: JavaScript (76.2%) and SQL (62.3%) anchor enterprise production, while **Python** is the only one of the five most-used languages with more desired than current users (39.8% → 46.0% of respondents; +15.3%).
+- **The Database Shift**: While MySQL leads current deployments (48.0%), **PostgreSQL is #1** in future developer desire (38.0%, up from 35.9% current use), with Redis (29.2%) and MongoDB (32.0%) capturing caching and NoSQL demand.
 - **Tooling Standard**: **Visual Studio Code** dominates engineering environments with **58.3%** adoption.
 - **Academic Degree Premium Debunked**: A non-parametric **Mann-Whitney U Test** ($p = 0.0676$) confirms **no statistically significant difference** in compensation between Bachelor's ($60.5k median) and Master's ($57.7k median) degree holders.
 - **Remote Work Commitment**: A two-sample **Welch's t-test** ($p = 0.2719$) proves remote developers work identical hours (41.1 hrs/wk) to in-office employees (40.9 hrs/wk).
@@ -113,7 +113,7 @@ All data used in this capstone originates from authentic, verified public datase
 
 ### 1. Programming Languages: The Growth Engine
 - **Current Production Leaders**: JavaScript (8,687), HTML/CSS (7,830), and SQL (7,106).
-- **Emerging Momentum**: Python surges by **+46.0% net interest** (from 4,542 active users to 6,630 desired users).
+- **Emerging Momentum**: Python grows from **4,542 current users to 5,239 desired users (+15.3%)**, the only increase among the five most-used languages. Faster growth comes from smaller bases, e.g. Go (+147.7%), Kotlin (+151.7%) and Rust (+369.1%).
 - **Declining Adoption**: PHP (-50.0%), Java (-34.5%), and VBA (-76.3%) suffer steep drops in future interest.
 
 ### 2. Database Architectures: The Open-Source Migration
